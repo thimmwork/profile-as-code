@@ -1,0 +1,161 @@
+ActiveMQ
+ActiveMQ
+ActiveMQ
+ActiveMQ
+Akka
+Akka
+Apache Camel
+Apache Camel
+Apache Camel
+ArangoDB
+ArangoDB
+ArangoDB
+Cassandra
+Cassandra
+CDI
+CDI
+CDI
+CDI
+CDI
+Continuous integration
+Continuous integration
+Concurrency
+Concurrency
+Concurrency
+Concurrency
+C++
+C++
+C#
+C#
+Docker
+Docker
+Docker Compose
+Docker Compose
+Domain Driven Design
+Domain Driven Design
+Domain Driven Design
+Event Storming
+Event Storming
+Event Sourcing
+Event Sourcing
+Event Sourcing
+Event Sourcing
+Java 8
+Java 8
+Java 8
+Java 8
+Java 8
+Java 8
+Java EE
+Java EE
+Java EE
+Java EE
+JBoss AS / Wildfly
+JBoss AS / Wildfly
+JBoss AS / Wildfly
+JDBC
+JDBC
+JDBC
+Jersey
+Jersey
+Jersey
+JUnit
+JUnit
+JUnit
+JUnit
+Go
+Git
+Git
+Git
+Git
+Guava
+Guava
+Guava
+Guice
+Guice
+Guice
+Guice
+Kafka
+Kafka
+Kanban
+Kanban
+Kanban
+Kotlin
+Kotlin
+Kotlin
+Kubernetes
+Linux
+Linux
+LMAX disruptor
+LMAX disruptor
+LMAX disruptor
+Maven
+Maven
+Maven
+Maven
+Maven
+MessageDriven
+MessageDriven
+MessageDriven
+MessageDriven
+MongoDB
+MongoDB
+MongoDB
+MongoDB
+MongoDB
+MySQL
+MySQL
+MySQL
+Oracle PL/SQL
+Oracle PL/SQL
+Python
+Reactive
+Reactive
+Reactive
+Reactive
+REST
+REST
+REST
+REST
+Scrum
+Scrum
+Scrum
+Scrum
+SOAP
+SOAP
+Solr
+Solr
+Spring
+Spring
+Spring
+Spring
+Spring Boot
+Spring Boot
+Spring Boot
+Spring Boot
+SQL
+SQL
+SQL
+Subversion
+Subversion
+Subversion
+Subversion
+SWIG
+SWIG
+Time Series
+Time Series
+Time Series
+Time Series
+Time Series
+Tomcat
+Tomcat
+Tomcat
+Visual Basic
+Visual Basic
+Web Services
+Web Services
+Web Services
+Web Services
+Weld
+Weld
+Weld
