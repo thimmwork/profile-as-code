@@ -21,7 +21,7 @@ fun main(args: Array<String>) {
     wordCloud.setBackground(backgroundImage)
     wordCloud.setPadding(0)
     wordCloud.setColorPalette(ColorPalette(Color.BLACK, Color.DARK_GRAY, Color.GRAY, Color.LIGHT_GRAY))
-    wordCloud.setFontScalar(LinearFontScalar(10, 60))
+    wordCloud.setFontScalar(LinearFontScalar(8, 60))
     wordCloud.setBackgroundColor(Color.WHITE)
     wordCloud.build(wordFrequencies)
     wordCloud.writeToFile("target/wordcloud_rectangle.png")

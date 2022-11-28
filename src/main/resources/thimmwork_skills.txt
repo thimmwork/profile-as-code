@@ -1,19 +1,20 @@
 ActiveMQ
 ActiveMQ
-ActiveMQ
-ActiveMQ
 Akka
-Akka
+Android
 Apache Camel
 Apache Camel
-Apache Camel
+Apache Kafka
+Apache Kafka
+Apache Kafka
+Apache Kafka
+Apache Kafka
+Apache Kafka
 ArangoDB
 ArangoDB
-ArangoDB
+Case Calculation
+Case Calculation
 Cassandra
-Cassandra
-CDI
-CDI
 CDI
 CDI
 CDI
@@ -24,12 +25,9 @@ Concurrency
 Concurrency
 Concurrency
 C++
-C++
-C#
 C#
 Docker
 Docker
-Docker Compose
 Docker Compose
 Domain Driven Design
 Domain Driven Design
@@ -39,15 +37,15 @@ Event Storming
 Event Sourcing
 Event Sourcing
 Event Sourcing
-Event Sourcing
-Java 8
-Java 8
-Java 8
-Java 8
-Java 8
-Java 8
-Java EE
-Java EE
+Google Cloud Platform
+Google Cloud Platform
+Google Kubernetes Engine
+Google Kubernetes Engine
+Java
+Java
+Java
+Java
+Java
 Java EE
 Java EE
 JBoss AS / Wildfly
@@ -56,7 +54,6 @@ JBoss AS / Wildfly
 JDBC
 JDBC
 JDBC
-Jersey
 Jersey
 Jersey
 JUnit
@@ -70,13 +67,8 @@ Git
 Git
 Guava
 Guava
-Guava
 Guice
 Guice
-Guice
-Guice
-Kafka
-Kafka
 Kanban
 Kanban
 Kanban
@@ -84,21 +76,16 @@ Kotlin
 Kotlin
 Kotlin
 Kubernetes
+Kubernetes
+Kubernetes
 Linux
-Linux
 LMAX disruptor
 LMAX disruptor
-LMAX disruptor
 Maven
 Maven
 Maven
 Maven
 Maven
-MessageDriven
-MessageDriven
-MessageDriven
-MessageDriven
-MongoDB
 MongoDB
 MongoDB
 MongoDB
@@ -106,13 +93,25 @@ MongoDB
 MySQL
 MySQL
 MySQL
+Neo4j
+Neo4j
+OAuth2
+Optaplanner
+Optaplanner
+Optaplanner
+Optaplanner
+Optaplanner
 Oracle PL/SQL
 Oracle PL/SQL
+Parallelization
+Parallelization
+Parallelization
+Prometheus
+Prometheus
 Python
 Reactive
 Reactive
 Reactive
-Reactive
 REST
 REST
 REST
@@ -124,7 +123,6 @@ Scrum
 SOAP
 SOAP
 Solr
-Solr
 Spring
 Spring
 Spring
@@ -133,20 +131,17 @@ Spring Boot
 Spring Boot
 Spring Boot
 Spring Boot
-SQL
-SQL
-SQL
+PostgreSQL
+PostgreSQL
+MySQL
 Subversion
-Subversion
-Subversion
-Subversion
-SWIG
-SWIG
 Time Series
 Time Series
 Time Series
 Time Series
-Time Series
+Tour Planning
+Tour Planning
+Tour Planning
 Tomcat
 Tomcat
 Tomcat
